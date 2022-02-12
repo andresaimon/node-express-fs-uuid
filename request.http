@@ -1,0 +1,29 @@
+POST http://localhost:4002/products
+content-type: application/json
+
+{
+    "name": "caderno",
+    "price": 20
+}
+
+###
+
+GET http://localhost:4002/products
+
+###
+
+GET http://localhost:4002/products/be59b88c-7069-470a-a43e-1ab688e97965
+
+###
+
+PUT http://localhost:4002/products/dd4b3553-4510-498e-9a48-0c19a262df79
+content-type: application/json
+
+{
+    "name": "caderno promo",
+    "price": 15
+}
+
+###
+
+DELETE http://localhost:4002/products/cac44777-1d76-4d36-93c1-7e4909fe4c67
