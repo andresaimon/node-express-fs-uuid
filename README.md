@@ -3,6 +3,9 @@
 Node.js + Express + File System + UUID + REST Client / VS Code
 </h1>
 
+<p> Rocketseat Tutorial </p>
+<p> Video: https://www.youtube.com/watch?v=fm4_EuCsQwg</p>
+
 ## Node.js
 - "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine."
 - https://nodejs.org/en/
