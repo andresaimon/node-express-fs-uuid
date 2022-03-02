@@ -18,6 +18,10 @@ Node.js + Express + File System + UUID + REST Client / VS Code
 READ ME IN EDIT
 
 ## Express
+- "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications."
+- https://expressjs.com/
+
+- When you open this project, you need to install the Express, then creating it the node_modules folder.
 
 ## File System
 
